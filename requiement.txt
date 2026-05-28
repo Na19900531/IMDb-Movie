@@ -1,0 +1,10 @@
+pandas
+numpy
+selenium
+scikit-learn
+nltk
+spacy
+matplotlib
+seaborn
+streamlit
+
